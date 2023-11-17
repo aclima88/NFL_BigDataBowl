@@ -17,4 +17,5 @@ If you have any questions or concerns regarding privacy or data handling in this
 + Hannah Varghese [LinkedIn](https://www.linkedin.com/in/hannahvarghese/) | [GitHub](https://github.com/hannahvarghese) 
 + Angelo Lima [LinkedIn](https://www.linkedin.com/in/angelo-lima-23780467/) | [GitHub]()
 + Latrice Moore [LinkedIn](https://www.linkedin.com/in/latrice-moore-4a3241248/) | [GitHub]() 
-+ Marshall Rockafellow [LinkedIn](https://www.linkedin.com/in/marshal-rockafellow-628293140/) | [GitHub]() 
++ Marshal Rockafellow [LinkedIn](https://www.linkedin.com/in/marshal-rockafellow-628293140/) | [GitHub]() 
++ Aaron Summers [LinkedIn]() | [Github]()
