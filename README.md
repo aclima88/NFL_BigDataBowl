@@ -24,11 +24,11 @@ The data was provided by NFL NextGen Stats and compiled into seperate CSV files 
 * Tableau - Data Visualization software
 
 ### Index
-* Data Terminology/Dataset Description: https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data 
+* [Data Terminology/Dataset Description](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data) 
 * Installing git LFS:
 * https://stackoverflow.com/questions/65820300/pushing-files-over-100mb-to-github 
 If git lfs install does not work right away, you will need to run ‘brew install git-lfs’ before running git lfs install in the terminal.
-* NFL Next Gen Stats [https://operations.nfl.com/gameday/technology/nfl-next-gen-stats/]()
+* [NFL Next Gen Stats](https://operations.nfl.com/gameday/technology/nfl-next-gen-stats/)
 
 
 ## Contact
