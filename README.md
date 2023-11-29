@@ -52,6 +52,8 @@ Lastly, we can see the Inside Linebackers (ILB) main goal is to tackle the ball 
 <img width="563" alt="Screenshot 2023-11-29 at 10 28 24 AM" src="https://github.com/aclima88/NFL_BigDataBowl/assets/132293452/be58e344-afe4-43cc-863a-d1bf4f46a6b1">
 <img width="926" alt="Screenshot 2023-11-29 at 10 28 51 AM" src="https://github.com/aclima88/NFL_BigDataBowl/assets/132293452/be2576eb-9bef-4cd4-b3ca-2f5597d01aa0">
 
++ [2022 NFL Tackles Motion Tracking](https://public.tableau.com/app/profile/marshal.rockafellow/viz/NFLTackleMotionTracking/Tackles)
+
 4. Predicting if Play will end in a Tackle through Machine Learning using Scikit-learn
 
 [Presentation](https://docs.google.com/presentation/d/15WZJKeTo2RUz-7cuYlhPmSaFu1G3BG81mtE-iGe00EE/edit?usp=sharing)
