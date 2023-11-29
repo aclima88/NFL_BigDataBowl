@@ -41,11 +41,9 @@ Touchdown:
 
 3. Data Visualizations through Tableau
 + [2022 NFL Season Playor Information & Tackles Tableau Dashboard](https://public.tableau.com/app/profile/hannahvarghese/viz/2022NFLSeasonPlayerInformationTackles/2022NFLSeasonPlayerInformationTackles?publish=yes)
-In this dashboard, we are able to see the information regarding the player and their position based on birth year, university attended, and tackles. By clicking on the dropdown, we are able to select positions to see which age demographics of players, universities that bring in the most talent, and the overarching question of which players help defend the ball. 
- 
-We can see here that our oldest player here is Tom Brady who is a 46 years old QB (now retired) or the fact that you see that latest players that joined the NFL were majority wide receivers. Looking at age can show a pattern of the talent hired or the need of talent, coaches can see at what ages certain positions have their best performance and this could be seen over years worth of data. 
-
-Looking at the position by university, this information is great for future professional athletes who are considering where they should go to school based on the position they want to play and which schools have great football programs. 
+    + In this dashboard, we are able to see the information regarding the player and their position based on birth year, university attended, and tackles. By           clicking on the dropdown, we are able to select positions to see which age demographics of players, universities that bring in the most talent, and the             overarching question of which players help defend the ball.
+    + We can see here that our oldest player here is Tom Brady who is a 46 years old QB (now retired) or the fact that you see that latest players that joined the      NFL were majority wide receivers. Looking at age can show a pattern of the talent hired or the need of talent, coaches can see at what ages certain positions       have their best performance and this could be seen over years worth of data. 
+    + Looking at the position by university, this information is great for future professional athletes who are considering where they should go to school based on     the position they want to play and which schools have great football programs. 
 
 Lastly, we can see the Inside Linebackers (ILB) main goal is to tackle the ball carriers and see which players do well so that coaches can create their plays based on what is and isn’t successful with other players. 
 
