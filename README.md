@@ -76,7 +76,7 @@ Lastly, we can see the Inside Linebackers (ILB) main goal is to tackle the ball 
   
 ### Index
 * [Data Terminology/Dataset Description](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data) 
-* ]Installing git LFS](https://stackoverflow.com/questions/65820300/pushing-files-over-100mb-to-github): If git lfs install does not work right away, you will need to run ‘brew install git-lfs’ before running git lfs install in the terminal.
+* [Installing git LFS](https://stackoverflow.com/questions/65820300/pushing-files-over-100mb-to-github): If git lfs install does not work right away, you will need to run ‘brew install git-lfs’ before running git lfs install in the terminal.
 
 ## Contact
 If you have any questions or concerns regarding the data handling in this project, please do not hesitate to reach out to us: 
