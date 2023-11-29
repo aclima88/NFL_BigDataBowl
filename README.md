@@ -56,9 +56,9 @@ Lastly, we can see the Inside Linebackers (ILB) main goal is to tackle the ball 
 
 [Presentation](https://docs.google.com/presentation/d/15WZJKeTo2RUz-7cuYlhPmSaFu1G3BG81mtE-iGe00EE/edit?usp=sharing)
 
-## Things to Consider
-Impact of Environmental Factors: Analyze how external factors such as weather conditions, stadium types, or crowd noise affect player movements and performance.
-Play Calling Analysis: Predict or analyze the effectiveness of different play-calling strategies based on past data, player positioning, and movement patterns.
+### Factors that Impact Player Performance
++ Impact of Environmental Factors: Analyze how external factors such as weather conditions, stadium types, or crowd noise affect player movements and performance.
++ Play Calling Analysis: Predict or analyze the effectiveness of different play-calling strategies based on past data, player positioning, and movement patterns.
 
 ## Opportunities for Future Analysis
 + Game Outcome Prediction: Import historical data and player performance metrics to predict the outcome of games or the performance of teams during the remainder of the season
@@ -81,9 +81,8 @@ Play Calling Analysis: Predict or analyze the effectiveness of different play-ca
 If git lfs install does not work right away, you will need to run ‘brew install git-lfs’ before running git lfs install in the terminal.
 * [NFL Next Gen Stats](https://operations.nfl.com/gameday/technology/nfl-next-gen-stats/)
 
-
 ## Contact
-If you have any questions or concerns regarding privacy or data handling in this project, please do not hesitate to reach out to us: 
+If you have any questions or concerns regarding the data handling in this project, please do not hesitate to reach out to us: 
 + Aaron Summers [LinkedIn](https://www.linkedin.com/in/aaron-summers-643725216/) | [Github](https://github.com/summers-lee)
 + Angelo Lima [LinkedIn](https://www.linkedin.com/in/angelo-lima-23780467/) | [GitHub](https://github.com/aclima88)
 + Hannah Varghese [LinkedIn](https://www.linkedin.com/in/hannahvarghese/) | [GitHub](https://github.com/hannahvarghese) 
